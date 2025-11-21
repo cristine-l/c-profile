@@ -43,7 +43,7 @@ app.get('/', (req, res) => {
           <strong>Section:</strong> IT BA-4102
         </div>
         <div class="quote">
-          <p>"Overthinking starts when you think about the stuff that makes you overthink"</p>
+          <p>"Due date"</p>
         </div>
       </div>
     </body>
