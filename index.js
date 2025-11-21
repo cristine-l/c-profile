@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
     </head>
     <body>
       <div class="container">
-        <h1>Welcome to My Profile</h1>
+        <h1>Student Profile</h1>
         <div class="info">
           <strong>Full Name:</strong> Cristine Lavitag
         </div>
